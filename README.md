@@ -1,16 +1,37 @@
-#  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-[![My Skills](https://skills.thijs.gg/icons?i=python,kotlin,mysql&theme=dark)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=aws,azure&theme=dark)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=androidstudio,&theme=dark)](https://skills.thijs.gg)
+<div align="left">
+   <h1>Hey ! Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+     
+<p align='left'>
+  <a href="www.linkedin.com/in/chandramouli-d"><img height="30" src="https://simpleicons.vercel.app/linkedin/0A66C2"></a>&nbsp;&nbsp;
+  <a href="mailto:chandramoulidasari2@gmail.com"><img height="30" src="https://simpleicons.vercel.app/gmail/EA4335"></a>&nbsp;&nbsp;
+</p>
 
-![ChandraMouli Dasari's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandramoulidasari&theme=merko&show_icons=true)
-![ChandraMouli Dasari Streak](https://github-readme-streak-stats.herokuapp.com?user=chandramoulidasari&theme=merko&date_format=%5BY.%5Dn.j)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=chandramoulidasari.chandramoulidasari) 
+<div align="left">
+<h3> Chandra Mouli Dasari | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> & ☁ Enthusiast | <img src="https://simpleicons.vercel.app/android/3DDC84" width="20"/> Developer | 🗺️ India </h3>
+<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
-<!-- 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/chandramoulidasari) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/chandramoulidasari)
---->
+### ABOUT ME
+
+Android Developer,Cloud and Python Enthusiast. I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can. I love exploring new tech stack and leveraging them to build cool stuffs.
+
+### WHAT I USE
+- Languages `Python` `Kotlin` `SQL`
+- Tools &ensp; &ensp; &ensp; `Jupyter` `Visual Studio Code` `IntelliJ IDEA` `Android Studio` `Git`
+- Cloud &ensp; &ensp; &ensp;`Amazon Web Services` `Microsoft Azure` `Terraform`
+- DataBases `MySQL`
+
+### GLOBAL CERTIFICATIONS
+- [`Azure Fundamentals`](https://www.credly.com/badges/7f504dd2-b2b0-4ed4-9fd6-ea6447b24c71/public_url)
+- [`AWS Certified Cloud Practitioner`](https://www.credly.com/badges/1a50ae62-a3e5-401a-ab7c-d154a5fabe09)
+- [`AWS Academy Graduate`](https://www.credly.com/badges/002a76ca-f80f-464c-8ce9-9efd763ebdca/public_url)
+
+### GITHUB
+
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chandramoulidasari&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandramoulidasari&theme=highcontrast" />
+</p>
+
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=chandramoulidasari.chandramoulidasari&label=%F0%9F%91%80&countColor=%232ccce4&style=flat&labelStyle=upper)
